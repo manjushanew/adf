@@ -1,0 +1,9 @@
+{
+	"name": "v-mpokalaDF",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "799b0af6-2dcb-455d-8011-71c0b1e9bdd8",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
